@@ -1,5 +1,5 @@
 # ipa
-Mac下将xxx.app打包成xxx.ipa
+Mac下将企业版证书Build后的xxx.app打包成xxx.ipa
 
 # 使用方法
 将xxx.app和ipa.sh复制到同一个目录下
